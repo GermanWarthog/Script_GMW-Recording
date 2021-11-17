@@ -1,2 +1,3 @@
-Diese Ressource ist ein einfaches Script bei dem man ein Keybind setzten kann der eine Rockstar Editor Aufnahme startet. 
-Diese Ressource soll Spielern ermöglichen ohne Beispielsweise das vMenu einfach und schnell Aufnahmen starten zu können.
+**_GMW - FiveM Recording Script_**
+
+**Script_GMW-Recording** ist ein einfaches Script, welches Spielern ermöglicht einfach und Schnell eine Aufnahme für den R* Editor zu starten. Hierbei kann man Command und / oder Keybind einsetzen. Beide Methoden ein Clip aufzunehmen können in der `config.lua` eingestellt werden.
