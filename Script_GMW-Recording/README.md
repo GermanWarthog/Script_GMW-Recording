@@ -1,0 +1,2 @@
+Diese Ressource ist ein einfaches Script bei dem man ein Keybind setzten kann der eine Rockstar Editor Aufnahme startet. 
+Diese Ressource soll Spielern ermöglichen ohne Beispielsweise das vMenu einfach und schnell Aufnahmen starten zu können.
